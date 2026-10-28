@@ -1,4 +1,4 @@
-# Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
+<img width="985" height="629" alt="image" src="https://github.com/user-attachments/assets/6c619368-1770-441c-a813-0f0276921dd1" /># Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
 
 ## AIM:
 To write a program to predict the marks scored by a student using the simple linear regression model.
@@ -8,10 +8,11 @@ To write a program to predict the marks scored by a student using the simple lin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1.Load the dataset into a DataFrame and explore its contents to understand the data structure.
+2.Separate the dataset into independent (X) and dependent (Y) variables, and split them into training and testing sets.
+3.Create a linear regression model and fit it using the training data.
+4.Predict the results for the testing set and plot the training and testing sets with fitted lines.
+5.Calculate error metrics (MSE, MAE, RMSE) to evaluate the model’s performance.
 
 ## Program:
 ```
@@ -161,7 +162,11 @@ else:
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+
+<img width="897" height="631" alt="image" src="https://github.com/user-attachments/assets/fab194b1-8fe7-46bf-bd91-c7851e8aecdb" />
+<img width="914" height="486" alt="image" src="https://github.com/user-attachments/assets/b7d8fe9d-dca6-47d4-8b5f-d41eed804d51" />
+<img width="1030" height="693" alt="image" src="https://github.com/user-attachments/assets/31f2ff4b-3908-4396-9f6f-ba96d10a168f" />
+
 
 
 ## Result:
